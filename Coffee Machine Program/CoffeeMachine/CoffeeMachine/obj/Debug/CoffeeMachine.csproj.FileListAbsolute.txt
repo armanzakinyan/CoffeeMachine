@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Coffee Machine Program\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\Dell\Desktop\Coffee Machine Program\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\Dell\Desktop\Coffee Machine Program\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\Dell\Desktop\Coffee Machine Program\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Coffee Machine Program\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Coffee Machine Program\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\Dell\Desktop\Coffee Machine Program\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
